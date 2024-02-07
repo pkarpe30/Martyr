@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Martyr</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="API_KEY">AIzaSyAnOuzWNqCXakrCejJE2yEFsorK4H3v3Ek</string>
+</resources>
