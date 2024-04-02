@@ -1,8 +1,11 @@
-sr.no,title,main work,difficulty,date
-1,knn,distance vector,easy,20-Jan
-2,decision tree,paralel models,medium,21-Jan
-3,naïve bayes,bayes thm,hard,22-Jan
-4,pca,l2 regulrisation,medium,23-Jan
+Sr.No.,Title,Key Terms,Difficulty ,date
+1,KNN,Distance vector,easy,20-Jan
+2,Decision Tree,Concurrent models,medium,21-Jan
+3,Naïve Bayes,Bayes Theorem,hard,22-Jan
+4,PCA,l2 regulrisation,medium,23-Jan
 5,linear regression,slope,easy,24-Jan
-6,k means,centroid,easy,25-Jan
-7,hierarchial,linkage,medium,26-Jan
+6,k means clustering,Centroids,easy,25-Jan
+7,hierarchial clustering,Linkage Pattern,medium,26-Jan
+8,Random Forest,Different Models ,Hard,27-Jan
+9,Supervised Learning,Labelled Date,easy,27-Jan
+10,Unsupervised Learning,Unlabelled Data,easy,28-Jan
